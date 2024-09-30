@@ -1,0 +1,52 @@
+#red{
+    color:red;
+}
+img[alt="red"]{
+    width:200px;
+    height:200px;
+}
+
+#blue{
+    color:blue;
+}
+img[alt="blue"]{
+    width: 200px;
+    height: 200px;
+}
+
+#orange{
+    color:orange;
+}
+img[alt="orange"]{
+    width:200px;
+    height:200px;
+}
+
+#green{
+    color:green;
+}
+img[alt="green"]{
+    width:200px;
+    height:200px;
+}
+
+#yellow{
+    color:yellow;
+}
+img[alt="yellow"]{
+    width:200px;
+    height:200px;
+}
+
+/* Istead of using img[] i.e attribute selector again and again,
+we can use simply at once (my mistake that I forgot 
+about that before) element selector as img*/
+
+
+.color-title{
+    font-weight: normal;
+}
+
+/* Note: 
+P.S. here we used the class selector,Remember That! */
+
